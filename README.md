@@ -4,3 +4,4 @@ My last project, the largest ever written
 Needs a database for start
 
 C# and MySQL have been used and also Apache2 for to use the database remotely
+Can't log in outside of my local network
